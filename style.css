@@ -1,0 +1,134 @@
+body{
+    background-image: url("https://ichef.bbci.co.uk/news/800/cpsprodpb/267a/live/eede0b40-e8b4-11ed-a142-ab0e42bfd9c3.jpg");
+    background-size: cover;
+}
+.menuOculto{
+    height: 100%;
+    width: 0px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #1E1E1E;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+.menuOculto a{
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #888;
+    display: block;
+    transition: 0.3s;
+}
+.menuOculto a:hover{
+    color: #fff;
+}
+#abrirNav{
+    display: inline-block;
+    background-color: #333;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width:100vw;
+}
+#btnAbrirNav{
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+}
+.seta-para-cima{
+    float: right;
+    margin-top: 8px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.btnFechar{
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+#corpoPrincipal{
+    transition: margin-left 0.5s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    bottom: 0;
+}
+@media screen and(max-height: 450px){
+    .menuOculto{padding-top: 15px;}
+    .menuOculto a{font-size: 18px;}
+}
+#corpo{
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: center;
+    width:80vw;
+    background-color:#1E1E1E;
+    color: white;
+    justify-content: center;
+    border: #333 solid 2px;
+    bottom: 0px;
+}
+#tituloPrincipal{
+    margin-top: 70px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 36px;
+    -webkit-text-stroke: 1.5px black;
+}
+summary{
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.prgfSummary{
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    line-height: 1.5;
+    margin: 10px;
+    padding: 10px;
+    cursor:text;
+}
+.ibagens{
+    max-width: 100%;
+}
+p{
+    margin: 13px;
+    margin-bottom: 7px;
+}
+.detia{
+    display: inline-block;
+}
+.divDet{
+    background-color: #333;
+    border-radius: 10px;
+    margin: 7px;
+}
+a{
+    color: #E36246;
+}
+ol{
+    text-align: left;
+}
+/* Estilo para navegadores Webkit/Blink */
+::-webkit-scrollbar {
+    width: 10px; /* largura da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #333; /* cor da barra de rolagem */
+    border-radius: 8px; /* borda arredondada da barra de rolagem */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #1E1E1E; /* cor de fundo da área da barra de rolagem */
+}
