@@ -1,22 +1,25 @@
-# Trabalho Desenvolvimento Web.
-## IA Center
-Carissimo,<br>obrigado por sua visita. Aqui descreverei um pouco do projeto.</br> Este projeto é um site que fiz para entregar como projeto final na disciplina extensionista de Desenvolvimento Web HTML, CSS e Javascript. Fiz os três arquivos que compôem o site, mas claro que não posso desconsiderar a partipação de meus colegas na pesquisa e na idealização do que seria o nosso trabalho. Desenvolvi este trabalho para a disciplina a qual cursei no segundo semestre da faculdade de Ciência da Computação na Estácio do Ceará, campus parangaba. Utilizei os conhecimentos adquiridos durante o semestre na faculdade, no curso de HTML5 e CSS3 do canal de YouTube ‘Curso em Vídeo’ -realizei este curso antes da faculdade- e por meio de pesquisas feitas durante o desenvolvimento do projeto.</br> Espero que tenha gostado desse simples projeto que fiz não apenas para concluir uma disciplina, mas também para testar meus conhecimentos.</br> Atenciosamente, Felipe Santos.
-<br><br>
-### 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:<br>
-<br>
-HTML, CSS e Javascript<br>
+Дорогой,
+
+спасибо за ваш визит. Здесь я кратко опишу проект. Этот проект - сайт, который я создал в качестве заключительного проекта по расширенной дисциплине Веб-разработки HTML, CSS и JavaScript. Я создал три файла, составляющих сайт, но, конечно, не могу не упомянуть участие моих коллег в исследованиях и концепции того, что станет нашей работой. Я разработал этот проект для дисциплины, которую изучал во втором семестре на факультете Компьютерных наук в университете Estácio do Ceará, на кампусе Парангаба. Я использовал знания, полученные в течение семестра в университете, в курсе HTML5 и CSS3 на YouTube-канале 'Curso em Vídeo' - я прошел этот курс до университета - а также результаты исследований, проведенные во время разработки проекта. Надеюсь, вам понравился этот простой проект, который я создал не только для завершения дисциплины, но и для проверки своих знаний.
+
+С уважением,
+Фелипе Сантос.
+
+### 🚀 Технологии
+Этот проект был разработан с использованием следующих технологий:
+
+HTML, CSS и JavaScript
 Github
-</br></br>
-### 💻 Projeto
-Um site onde pode-se encontrar diversas inteligências artificiais divididas por tipos:
-- IAs geradoras de imagens
-- IAs de vídeos
-- IAs para gerar texto
-- IAs para tirar dúvidas
-- IAs para conversar
-- IAs para programadores
-<br>
-Cada tipo desfruta de 5 IAs diferentes e cada uma com o link para acessá-la.</br>
-</br>
-Acesse o projeto finalizado, online https://jfelipe-santosf.github.io/Trabalho-Desenv-Web/
+
+### 💻 Проект
+Сайт, на котором можно найти различные искусственные интеллекты, разделенные по типам:
+- ИИ, генерирующие изображения
+- ИИ для видео
+- ИИ для генерации текста
+- ИИ для ответа на вопросы
+- ИИ для общения
+- ИИ для программистов
+
+Каждый тип включает в себя 5 различных ИИ, каждый из которых снабжен ссылкой для доступа к нему.
+
+Перейдите к завершенному проекту онлайн.
